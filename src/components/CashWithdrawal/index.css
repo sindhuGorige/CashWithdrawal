@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.s {
+  background-color: #d4d2db;
+  padding: 10px;
+  border-radius: 100px;
+  width: 100px;
+  height: 100px;
+  color: #585076;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.innerBack {
+  background-color: #150b3e;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+
+  color: white;
+  width: 700px;
+}
+.profile {
+  display: flex;
+  justify-content: start;
+}
+.Balance {
+  display: flex;
+  justify-content: space-around;
+}
+.head {
+  font-size: 30px;
+  color: #585076;
+}
+.withdraw {
+  padding: 10px;
+}
